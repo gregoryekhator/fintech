@@ -1,13 +1,21 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Finance KPI dashboard produced with Node, React, Typescript, NoSql, MUI & Machine Learning",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "prod": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryekhator/fintech.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gregoryekhator/fintech/issues"
+  },
+  "homepage": "https://github.com/gregoryekhator/fintech#readme"
   "keywords": [],
   "author": "",
   "license": "ISC",

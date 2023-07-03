@@ -1,5 +1,4 @@
-# fintech
-Finance dashboard produced with Node, React, Typescript, NoSql, MUI &amp; Machine Learning
+# fintech, #Node, #React, #Typescript, #NoSql, MUI, #Machine_Learning
 
 INSTRUCTIONS FOR DEV AND PRODUCTION DEPLOY OF Finance dashboard produced with Node, React, Typescript, NoSql, MUI &amp; Machine Learning
 
